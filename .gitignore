@@ -1,0 +1,14 @@
+# Jetbrains
+.idea
+
+# Packer
+*packer_cache/
+
+# Terraform
+.terraform/
+*.tfstate*
+*.plan
+
+# Project
+.home
+.home/*
